@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: b4464e002377f354fbc47dbddcbe49c4
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 9132a07ff787d9b76295a2bbf1c3ead3
+  longitude: -95.423641
+  latitude: 36.194451
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1087.6926, y: 1360.9352, z: -348.4643}
+      lookAt: {x: 107.75498, y: 5.8130393, z: -8.6771}
+      up: {x: -0.7502781, y: 0.6077849, z: 0.26015422}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: _defaultMat
+    2100002: _2
+    2100004: Sophie_Shirt_Red
+    2100006: '[Color_001]'
+    2100008: Sophie_Hair
+    2100010: $Irr Cache1
+    2100012: Sophie_Shoes
+    2100014: Sophie_Skirt
+    2100016: Sophie_Shirt_Blue
+    2100018: Sophie_Skin
+    2100020: '[Color_006]1'
+    2100022: Sophie_Shirt_Gray
+    2100024: 1973_Alfa_Romeo_Montreal1
+    2100026: '[Color_A01]'
+    2100028: '[Color_A01]1'
+    2100030: $Light Sprite1
+    2100032: '[Color_A01]2'
+    2100034: '[Color_000]1'
+    2100036: '[Color_006]2'
+    2100038: '[Color_000]'
+    2100040: '[Color_A01]4'
+    2100042: '[Color_A01]5'
+    2100044: '[Color_A01]7'
+    2100046: '[Color_A01]6'
+    2100048: '[Color_A01]3'
+    2100050: montreal green square
+    2100052: '[0003_DeepPink]'
+    2100054: '[Color_A02]'
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Mesh Component#2
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6eb664751
+    second: {fileID: 2800000, guid: 1745cbaf7a09055448676ded89e573ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6eb664752
+    second: {fileID: 2800000, guid: 0af557122e741c64da8b91864b0c6801, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Asphalt_
+    second: {fileID: 2800000, guid: c471a3b3b9dbcd447b1eee08c438887f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BigTreeSilhouettefsd
+    second: {fileID: 2800000, guid: c132cb035ab176f4482e504ac325a410, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Materi04
+    second: {fileID: 2800000, guid: e009304e9dadd7d4293eb22b3df28db5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Materi24
+    second: {fileID: 2800000, guid: d2f24639b34fab848890ca3300612475, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NEWLOGO3sign
+    second: {fileID: 2800000, guid: 8c4c6e58706f78d409b8d81c7058f638, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _32_jpg_tint0x8B8E8EFF
+    second: {fileID: 2800000, guid: b85ee6267cc550c4ca6ca749875251ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _52_jpg
+    second: {fileID: 2800000, guid: 09df3c2191438e2499b4f8c23cc6a695, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Carpet_
+    second: {fileID: 2800000, guid: c090b1fa4e8cd3a429dec33549f79557, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Color_1
+    second: {fileID: 2800000, guid: b46c5e4dfab44be4794853ae91a6ddb5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: _Redwood
+    second: {fileID: 2800000, guid: fd8ab35704ef227428a632a917fdae25, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alleydoor9b
+    second: {fileID: 2800000, guid: cc84e505005222d4da12eac7f74aa8b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blanca
+    second: {fileID: 2800000, guid: 7141e3491867e8745b59e8cd0965c266, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dfs1
+    second: {fileID: 2800000, guid: b99fd3f3a64c5fd44bea02822409b770, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fdg
+    second: {fileID: 2800000, guid: 6b802334491626542a68d669edcf5dd6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fdgf - Copy (2)
+    second: {fileID: 2800000, guid: 61c70c5c6b7140e4094ee606e5303f63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: fdgf1
+    second: {fileID: 2800000, guid: c365f25514de9e94484b4244c4e7fe09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ggf 1
+    second: {fileID: 2800000, guid: b68c5cfcc4de54c42b21b2efcb44a529, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: road133
+    second: {fileID: 2800000, guid: df67b113e99d7ba46aa69317934191a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: road3
+    second: {fileID: 2800000, guid: d7d2ac6e206c6264babffa3da2cb00d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof04L256
+    second: {fileID: 2800000, guid: 7bf706cd5f6c6604baecbb4559e527f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: seamless_beach
+    second: {fileID: 2800000, guid: e8e9be84e2aca0944897639efa05d9e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t0066_0
+    second: {fileID: 2800000, guid: db31b1a7866eb2948bd3384ede4418a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: t0066_011
+    second: {fileID: 2800000, guid: 9ccc35112e3bb9d498c03b4802bff1e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ws_whiteplaster_top
+    second: {fileID: 2800000, guid: 99e11a2f99dfdbc4ba48397335608cb1, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
