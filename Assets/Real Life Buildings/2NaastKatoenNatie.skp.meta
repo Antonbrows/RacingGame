@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: d266e7810e27af44c900e44c5e98c0a3
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000040000000500000006000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d0879dbd10c9ab7d73c9e5c616a25061
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 80.63542, y: 94.87614, z: -89.71942}
+      lookAt: {x: 76.33227, y: 78.01627, z: -63.237213}
+      up: {x: -0.085338116, y: 0.84669936, z: 0.5251834}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Group 1
+    100004: Group 5
+    100006: Sang
+    400000: //RootNode
+    400002: Group 1
+    400004: Group 5
+    400006: Sang
+    2100000: _defaultMat
+    2100002: north side green
+    2100004: south side green
+    2100006: Green
+    2100008: 1
+    2100010: east side green
+    2100012: west side green
+    2100014: stella
+    2100016: 9#1
+    2100018: 9
+    2100020: 31
+    2100022: 33
+    2100024: Material
+    2100026: '[Color_008]'
+    2100028: '[Color_009]'
+    2100030: 6
+    2100032: '[Fencing_Metal_Straight]'
+    2100034: 17
+    2100036: 20
+    2100038: jean blue1
+    2100040: White
+    2100042: _LightGray_
+    2100044: _Beige_2
+    2100046: _1
+    2100048: _Burnt Umber_1
+    2100050: _DimGray_
+    2100052: _Charcoal_1
+    2100054: 35
+    2100056: 37
+    2100058: 1_b
+    2100060: 41
+    2100062: 43
+    2100064: 4#1
+    2100066: 44
+    2300000: Group 1
+    2300002: Group 5
+    2300004: Sang
+    3300000: Group 1
+    3300002: Group 5
+    3300004: Sang
+    4300000: Mesh Group 1
+    4300002: Mesh Sang
+    4300004: Mesh Group 5
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

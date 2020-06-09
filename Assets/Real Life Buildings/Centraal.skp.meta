@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: e33dbe60cf79d304490add710b501bd3
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000040000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d000000400000004300000046000000490000004c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 5d7c108575febb45d28dfb53d34a6145
+  longitude: 4.438136900666021
+  latitude: 51.188981110594575
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -410.60065, y: 82.69318, z: -232.89885}
+      lookAt: {x: 1432.1559, y: -911.91425, z: -3657.2178}
+      up: {x: 0.11742445, y: 0.9688127, z: -0.21820505}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Chris
+    100004: Component#32
+    100006: Component#34
+    100008: Component#35
+    100010: Component#36
+    100012: Component#37
+    100014: Component#39
+    100016: Component#42
+    100018: Group 11
+    100020: Group 13
+    100022: Group 15
+    100024: Group 17
+    100026: Group 19
+    100028: Group 21
+    100030: Group 23
+    100032: Group 25
+    100034: Group 27
+    100036: Group 29
+    100038: Group 31
+    100040: Group 33
+    100042: Group 35
+    100044: Group 37
+    100046: Group 39
+    100048: Group 41
+    100050: Group 43
+    100052: Group 45
+    100054: Group 47
+    100056: Group 49
+    100058: Group 51
+    100060: Group 53
+    100062: Group 55
+    100064: Group 57
+    100066: Group 7
+    100068: Group 9
+    100070: Toren
+    400000: //RootNode
+    400002: Chris
+    400004: Component#32
+    400006: Component#34
+    400008: Component#35
+    400010: Component#36
+    400012: Component#37
+    400014: Component#39
+    400016: Component#42
+    400018: Group 11
+    400020: Group 13
+    400022: Group 15
+    400024: Group 17
+    400026: Group 19
+    400028: Group 21
+    400030: Group 23
+    400032: Group 25
+    400034: Group 27
+    400036: Group 29
+    400038: Group 31
+    400040: Group 33
+    400042: Group 35
+    400044: Group 37
+    400046: Group 39
+    400048: Group 41
+    400050: Group 43
+    400052: Group 45
+    400054: Group 47
+    400056: Group 49
+    400058: Group 51
+    400060: Group 53
+    400062: Group 55
+    400064: Group 57
+    400066: Group 7
+    400068: Group 9
+    400070: Toren
+    2100000: _defaultMat
+    2100002: '[Chris_Shirt]'
+    2100004: '[Chris_Shoe]'
+    2100006: '[Chris_Skin]'
+    2100008: '[Chris_Shoe_Sole]'
+    2100010: '[Chris_Hair]'
+    2100012: '[Chris_Pants]'
+    2100014: 4
+    2100016: Untitled-2
+    2100018: 23
+    2100020: 5
+    2100022: 2
+    2100024: 12
+    2100026: 16
+    2100028: HPIM2217
+    2100030: 39
+    2100032: 10
+    2100034: 8
+    2100036: 11
+    2100038: 38
+    2100040: 7
+    2100042: 29
+    2100044: 30
+    2100046: 36
+    2100048: 40
+    2100050: 42
+    2100052: 14
+    2100054: 32
+    2100056: 34
+    2100058: 3
+    2100060: 26
+    2100062: 25
+    2100064: 24
+    2100066: 13
+    2100068: 27
+    2100070: 28
+    2100072: 15
+    2300000: Chris
+    2300002: Component#32
+    2300004: Group 11
+    2300006: Group 13
+    2300008: Group 15
+    2300010: Group 17
+    2300012: Group 19
+    2300014: Group 21
+    2300016: Group 23
+    2300018: Group 25
+    2300020: Group 27
+    2300022: Group 29
+    2300024: Group 31
+    2300026: Group 33
+    2300028: Group 35
+    2300030: Group 37
+    2300032: Group 39
+    2300034: Group 41
+    2300036: Group 43
+    2300038: Group 45
+    2300040: Group 47
+    2300042: Group 49
+    2300044: Group 51
+    2300046: Group 53
+    2300048: Group 55
+    2300050: Group 57
+    2300052: Group 7
+    2300054: Group 9
+    2300056: Toren
+    3300000: Chris
+    3300002: Component#32
+    3300004: Group 11
+    3300006: Group 13
+    3300008: Group 15
+    3300010: Group 17
+    3300012: Group 19
+    3300014: Group 21
+    3300016: Group 23
+    3300018: Group 25
+    3300020: Group 27
+    3300022: Group 29
+    3300024: Group 31
+    3300026: Group 33
+    3300028: Group 35
+    3300030: Group 37
+    3300032: Group 39
+    3300034: Group 41
+    3300036: Group 43
+    3300038: Group 45
+    3300040: Group 47
+    3300042: Group 49
+    3300044: Group 51
+    3300046: Group 53
+    3300048: Group 55
+    3300050: Group 57
+    3300052: Group 7
+    3300054: Group 9
+    3300056: Toren
+    4300000: Mesh Chris
+    4300002: Mesh Component#32
+    4300004: Mesh Group 7
+    4300006: Mesh Group 19
+    4300008: Mesh Group 21
+    4300010: Mesh Group 23
+    4300012: Mesh Group 25
+    4300014: Mesh Group 27
+    4300016: Mesh Group 29
+    4300018: Mesh Group 31
+    4300020: Mesh Group 33
+    4300022: Mesh Group 35
+    4300024: Mesh Group 37
+    4300026: Mesh Group 39
+    4300028: Mesh Group 41
+    4300030: Mesh Group 43
+    4300032: Mesh Group 45
+    4300034: Mesh Group 47
+    4300036: Mesh Group 49
+    4300038: Mesh Group 51
+    4300040: Mesh Group 53
+    4300042: Mesh Toren
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

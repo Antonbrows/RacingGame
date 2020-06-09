@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 1283e1019a5a7c0499876562619e2d63
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000
+  assetHash:
+    serializedVersion: 2
+    Hash: c79d71ec6365cf867456e11daadddf27
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3044.2366, y: 1004.05743, z: -2050.015}
+      lookAt: {x: 2433.8135, y: 790.19006, z: -1134.4537}
+      up: {x: -0.10583448, y: 0.9816318, z: 0.15873893}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CAMPUS ELLERMANS
+    100002: //RootNode
+    100004: Image 2
+    100006: Image 3
+    400000: CAMPUS ELLERMANS
+    400002: //RootNode
+    400004: Image 2
+    400006: Image 3
+    2100000: _defaultMat
+    2100002: '[Color M00]'
+    2100004: '[Color M02]'
+    2100006: '[Color M04]'
+    2100008: '[Color A04]'
+    2100010: '[Rough Square Concrete Block]'
+    2100012: '[Translucent Glass Sky Reflection]'
+    2100014: '[Translucent Glass Gray]'
+    2100016: Material 8
+    2100018: Material 9
+    2300000: CAMPUS ELLERMANS
+    2300002: //RootNode
+    2300004: Image 2
+    2300006: Image 3
+    3300000: CAMPUS ELLERMANS
+    3300002: //RootNode
+    3300004: Image 2
+    3300006: Image 3
+    4300000: Mesh CampusEller
+    4300002: Mesh CampusEller
+    4300004: Mesh CampusEller
+    4300006: Mesh CAMPUS ELLERMANS
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: C__Users_Anton Broos_Desktop_AP_logo_staand_rgb
+    second: {fileID: 2800000, guid: 90972c75f3fb53648a533f0263878571, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Rough Square Concrete Block
+    second: {fileID: 2800000, guid: 5fb98dee797fa9f44b11931eabfb73dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Sky_Reflection_
+    second: {fileID: 2800000, guid: c1272c1ca912686408628820a99b32b6, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

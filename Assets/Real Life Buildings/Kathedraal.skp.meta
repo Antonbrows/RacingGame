@@ -1,0 +1,791 @@
+fileFormatVersion: 2
+guid: 8d581dd705ab8aa45974094b5c780f45
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000040000000500000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0f32098beed3a4d5a1f8f82697fffea4
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -144.3433, y: 216.19688, z: -56.23569}
+      lookAt: {x: -123.29262, y: 198.47243, z: -45.872765}
+      up: {x: 0.54078525, y: 0.7979212, z: 0.26622003}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Boogbreed
+    100002: Boogbreed 1
+    100004: Boogbreed 2
+    100006: Boogbreed 3
+    100008: Boogbreed 4
+    100010: Boogbreed 5
+    100012: Boogbreed 6
+    100014: Boogbreed 7
+    100016: Boogbreed 8
+    100018: Boogbreed 9
+    100020: Bryce
+    100022: Component
+    100024: daktorentje
+    100026: daktorentje 1
+    100028: daktorentje 10
+    100030: daktorentje 11
+    100032: daktorentje 12
+    100034: daktorentje 13
+    100036: daktorentje 14
+    100038: daktorentje 15
+    100040: daktorentje 16
+    100042: daktorentje 17
+    100044: daktorentje 18
+    100046: daktorentje 19
+    100048: daktorentje 2
+    100050: daktorentje 20
+    100052: daktorentje 21
+    100054: daktorentje 22
+    100056: daktorentje 23
+    100058: daktorentje 24
+    100060: daktorentje 25
+    100062: daktorentje 26
+    100064: daktorentje 27
+    100066: daktorentje 28
+    100068: daktorentje 29
+    100070: daktorentje 3
+    100072: daktorentje 30
+    100074: daktorentje 31
+    100076: daktorentje 32
+    100078: daktorentje 33
+    100080: daktorentje 34
+    100082: daktorentje 35
+    100084: daktorentje 36
+    100086: daktorentje 4
+    100088: daktorentje 5
+    100090: daktorentje 6
+    100092: daktorentje 7
+    100094: daktorentje 8
+    100096: daktorentje 9
+    100098: //RootNode
+    100100: Kijkuitje
+    100102: Kijkuitje 1
+    100104: Kijkuitje 10
+    100106: Kijkuitje 11
+    100108: Kijkuitje 12
+    100110: Kijkuitje 13
+    100112: Kijkuitje 14
+    100114: Kijkuitje 15
+    100116: Kijkuitje 16
+    100118: Kijkuitje 17
+    100120: Kijkuitje 2
+    100122: Kijkuitje 3
+    100124: Kijkuitje 4
+    100126: Kijkuitje 5
+    100128: Kijkuitje 6
+    100130: Kijkuitje 7
+    100132: Kijkuitje 8
+    100134: Kijkuitje 9
+    100136: ske69
+    100138: zijtorenbovenkl
+    100140: zijtorenbovenkl 1
+    100142: zijtorenbovenkl 2
+    100144: zijtorenbovenkl 3
+    100146: zijtorenhoogste
+    100148: zijtorenhoogste 1
+    100150: zijtorenhoogste 2
+    100152: zijtorenhoogste 3
+    100154: zijtorentje
+    100156: zijtorentje 1
+    100158: zijtorentje 2
+    100160: zijtorentje 3
+    400000: Boogbreed
+    400002: Boogbreed 1
+    400004: Boogbreed 2
+    400006: Boogbreed 3
+    400008: Boogbreed 4
+    400010: Boogbreed 5
+    400012: Boogbreed 6
+    400014: Boogbreed 7
+    400016: Boogbreed 8
+    400018: Boogbreed 9
+    400020: Bryce
+    400022: Component
+    400024: daktorentje
+    400026: daktorentje 1
+    400028: daktorentje 10
+    400030: daktorentje 11
+    400032: daktorentje 12
+    400034: daktorentje 13
+    400036: daktorentje 14
+    400038: daktorentje 15
+    400040: daktorentje 16
+    400042: daktorentje 17
+    400044: daktorentje 18
+    400046: daktorentje 19
+    400048: daktorentje 2
+    400050: daktorentje 20
+    400052: daktorentje 21
+    400054: daktorentje 22
+    400056: daktorentje 23
+    400058: daktorentje 24
+    400060: daktorentje 25
+    400062: daktorentje 26
+    400064: daktorentje 27
+    400066: daktorentje 28
+    400068: daktorentje 29
+    400070: daktorentje 3
+    400072: daktorentje 30
+    400074: daktorentje 31
+    400076: daktorentje 32
+    400078: daktorentje 33
+    400080: daktorentje 34
+    400082: daktorentje 35
+    400084: daktorentje 36
+    400086: daktorentje 4
+    400088: daktorentje 5
+    400090: daktorentje 6
+    400092: daktorentje 7
+    400094: daktorentje 8
+    400096: daktorentje 9
+    400098: //RootNode
+    400100: Kijkuitje
+    400102: Kijkuitje 1
+    400104: Kijkuitje 10
+    400106: Kijkuitje 11
+    400108: Kijkuitje 12
+    400110: Kijkuitje 13
+    400112: Kijkuitje 14
+    400114: Kijkuitje 15
+    400116: Kijkuitje 16
+    400118: Kijkuitje 17
+    400120: Kijkuitje 2
+    400122: Kijkuitje 3
+    400124: Kijkuitje 4
+    400126: Kijkuitje 5
+    400128: Kijkuitje 6
+    400130: Kijkuitje 7
+    400132: Kijkuitje 8
+    400134: Kijkuitje 9
+    400136: ske69
+    400138: zijtorenbovenkl
+    400140: zijtorenbovenkl 1
+    400142: zijtorenbovenkl 2
+    400144: zijtorenbovenkl 3
+    400146: zijtorenhoogste
+    400148: zijtorenhoogste 1
+    400150: zijtorenhoogste 2
+    400152: zijtorenhoogste 3
+    400154: zijtorentje
+    400156: zijtorentje 1
+    400158: zijtorentje 2
+    400160: zijtorentje 3
+    2100000: _defaultMat
+    2100002: _DarkGoldenrod_
+    2100004: _Gray6_
+    2100006: _Beige_1
+    2100008: _Brown_
+    2100010: _Charcoal_
+    2100012: _Black_
+    2100014: _Redwood_
+    2100016: jean blue
+    2100018: Concrete_Block_Splitfaced
+    2100020: '[Roofing_Shingles_GAF_Estates]'
+    2100022: '[Color_007]'
+    2100024: Uientorenklein
+    2100026: Uieiendak
+    2100028: '[Color_002]'
+    2100030: Uienvenster
+    2100032: '[Color_003]'
+    2100034: Concrete_Block_Splitfaced_Dark
+    2100036: zijkapellijst
+    2100038: zijraam1
+    2100040: pilaarvoor
+    2100042: zijkapelmuur
+    2100044: '[Color_006]'
+    2100046: portaal
+    2100048: middenpoort
+    2100050: torenrecht2
+    2100052: Wood_Floor2
+    2100054: zijkapelpilaar
+    2100056: zijkapeltorentje
+    2100058: zijkapelkader
+    2100060: zijkapelpilaargeel
+    2100062: zijdak
+    2100064: zijkroonlijst1
+    2100066: zijraam
+    2100068: voorbeukramen
+    2100070: zijbeukramen
+    2100072: daktorentje
+    2100074: koorrram
+    2100076: torenrecht
+    2100078: '[Brick_Rough_Dark]'
+    2100080: '[_0045_Goldenrod_]'
+    2100082: torenboven
+    2100084: balkon
+    2100086: Fencing_Iron2
+    2100088: spits
+    2100090: horloge
+    2100092: spitsonder
+    2100094: Tile_Ceiling_Grid
+    2100096: balustradehoog
+    2100098: spitsboven
+    2100100: '[Color_005]'
+    2100102: torenrecht4
+    2100104: torenrecht3
+    2100106: zijportaalspits
+    2100108: zijportaalkruis
+    2100110: zijportaaldeur
+    2100112: zijportaalmidden
+    2100114: tuinraam
+    2100116: torenzijvolsepial
+    2100118: torenrecht1
+    2100120: onderbouwsepia
+    2100122: '[Translucent_Glass_Block_Dark]'
+    2100124: Translucent_Glass_Block_Light
+    2100126: muurspits
+    2100128: zijkijkuit
+    2100130: boogdetail
+    2100132: zijtorentje
+    2100134: zijtorentjeomg
+    2100136: zijtorenhoog1
+    2100138: zijtorenhoogste
+    2100140: zijtorenhoogstevoor
+    2300000: Boogbreed
+    2300002: Boogbreed 1
+    2300004: Boogbreed 2
+    2300006: Boogbreed 3
+    2300008: Boogbreed 4
+    2300010: Boogbreed 5
+    2300012: Boogbreed 6
+    2300014: Boogbreed 7
+    2300016: Boogbreed 8
+    2300018: Boogbreed 9
+    2300020: Bryce
+    2300022: daktorentje
+    2300024: daktorentje 1
+    2300026: daktorentje 10
+    2300028: daktorentje 11
+    2300030: daktorentje 12
+    2300032: daktorentje 13
+    2300034: daktorentje 14
+    2300036: daktorentje 15
+    2300038: daktorentje 16
+    2300040: daktorentje 17
+    2300042: daktorentje 18
+    2300044: daktorentje 19
+    2300046: daktorentje 2
+    2300048: daktorentje 20
+    2300050: daktorentje 21
+    2300052: daktorentje 22
+    2300054: daktorentje 23
+    2300056: daktorentje 24
+    2300058: daktorentje 25
+    2300060: daktorentje 26
+    2300062: daktorentje 27
+    2300064: daktorentje 28
+    2300066: daktorentje 29
+    2300068: daktorentje 3
+    2300070: daktorentje 30
+    2300072: daktorentje 31
+    2300074: daktorentje 32
+    2300076: daktorentje 33
+    2300078: daktorentje 34
+    2300080: daktorentje 35
+    2300082: daktorentje 36
+    2300084: daktorentje 4
+    2300086: daktorentje 5
+    2300088: daktorentje 6
+    2300090: daktorentje 7
+    2300092: daktorentje 8
+    2300094: daktorentje 9
+    2300096: Kijkuitje
+    2300098: Kijkuitje 1
+    2300100: Kijkuitje 10
+    2300102: Kijkuitje 11
+    2300104: Kijkuitje 12
+    2300106: Kijkuitje 13
+    2300108: Kijkuitje 14
+    2300110: Kijkuitje 15
+    2300112: Kijkuitje 16
+    2300114: Kijkuitje 17
+    2300116: Kijkuitje 2
+    2300118: Kijkuitje 3
+    2300120: Kijkuitje 4
+    2300122: Kijkuitje 5
+    2300124: Kijkuitje 6
+    2300126: Kijkuitje 7
+    2300128: Kijkuitje 8
+    2300130: Kijkuitje 9
+    2300132: ske69
+    2300134: zijtorenbovenkl
+    2300136: zijtorenbovenkl 1
+    2300138: zijtorenbovenkl 2
+    2300140: zijtorenbovenkl 3
+    2300142: zijtorenhoogste
+    2300144: zijtorenhoogste 1
+    2300146: zijtorenhoogste 2
+    2300148: zijtorenhoogste 3
+    2300150: zijtorentje
+    2300152: zijtorentje 1
+    2300154: zijtorentje 2
+    2300156: zijtorentje 3
+    3300000: Boogbreed
+    3300002: Boogbreed 1
+    3300004: Boogbreed 2
+    3300006: Boogbreed 3
+    3300008: Boogbreed 4
+    3300010: Boogbreed 5
+    3300012: Boogbreed 6
+    3300014: Boogbreed 7
+    3300016: Boogbreed 8
+    3300018: Boogbreed 9
+    3300020: Bryce
+    3300022: daktorentje
+    3300024: daktorentje 1
+    3300026: daktorentje 10
+    3300028: daktorentje 11
+    3300030: daktorentje 12
+    3300032: daktorentje 13
+    3300034: daktorentje 14
+    3300036: daktorentje 15
+    3300038: daktorentje 16
+    3300040: daktorentje 17
+    3300042: daktorentje 18
+    3300044: daktorentje 19
+    3300046: daktorentje 2
+    3300048: daktorentje 20
+    3300050: daktorentje 21
+    3300052: daktorentje 22
+    3300054: daktorentje 23
+    3300056: daktorentje 24
+    3300058: daktorentje 25
+    3300060: daktorentje 26
+    3300062: daktorentje 27
+    3300064: daktorentje 28
+    3300066: daktorentje 29
+    3300068: daktorentje 3
+    3300070: daktorentje 30
+    3300072: daktorentje 31
+    3300074: daktorentje 32
+    3300076: daktorentje 33
+    3300078: daktorentje 34
+    3300080: daktorentje 35
+    3300082: daktorentje 36
+    3300084: daktorentje 4
+    3300086: daktorentje 5
+    3300088: daktorentje 6
+    3300090: daktorentje 7
+    3300092: daktorentje 8
+    3300094: daktorentje 9
+    3300096: Kijkuitje
+    3300098: Kijkuitje 1
+    3300100: Kijkuitje 10
+    3300102: Kijkuitje 11
+    3300104: Kijkuitje 12
+    3300106: Kijkuitje 13
+    3300108: Kijkuitje 14
+    3300110: Kijkuitje 15
+    3300112: Kijkuitje 16
+    3300114: Kijkuitje 17
+    3300116: Kijkuitje 2
+    3300118: Kijkuitje 3
+    3300120: Kijkuitje 4
+    3300122: Kijkuitje 5
+    3300124: Kijkuitje 6
+    3300126: Kijkuitje 7
+    3300128: Kijkuitje 8
+    3300130: Kijkuitje 9
+    3300132: ske69
+    3300134: zijtorenbovenkl
+    3300136: zijtorenbovenkl 1
+    3300138: zijtorenbovenkl 2
+    3300140: zijtorenbovenkl 3
+    3300142: zijtorenhoogste
+    3300144: zijtorenhoogste 1
+    3300146: zijtorenhoogste 2
+    3300148: zijtorenhoogste 3
+    3300150: zijtorentje
+    3300152: zijtorentje 1
+    3300154: zijtorentje 2
+    3300156: zijtorentje 3
+    4300000: Mesh Bryce
+    4300002: Mesh ske69
+    4300004: Mesh daktorentje
+    4300006: Mesh Kijkuitje
+    4300008: Mesh Boogbreed
+    4300010: Mesh zijtorentje
+    4300012: Mesh zijtorentje
+    4300014: Mesh zijtorenbovenkl
+    4300016: Mesh zijtorenbovenkl
+    4300018: Mesh zijtorenbovenkl
+    4300020: Mesh zijtorenhoogste
+    4300022: Mesh zijtorenhoogste
+    4300024: Mesh daktorentje
+    4300026: Mesh Boogbreed
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brick_Rough_Dark
+    second: {fileID: 2800000, guid: 9c38a7e25493c7d44839370f65a02bc7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete_Block_Splitfaced
+    second: {fileID: 2800000, guid: 797b7db5fcf1de14b8ed5cc701f23efc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Concrete_Block_Splitfaced_Dark
+    second: {fileID: 2800000, guid: b150e5469d364814382ee9c88afae8fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fencing_Iron2
+    second: {fileID: 2800000, guid: bd4395f7b646bc742ab7b1e1d75ee208, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roofing_Shingles_GAF_Estates_tint0x494642FF
+    second: {fileID: 2800000, guid: fe77f20437d8c6e4eb9758cdfe2bdefc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tile_Ceiling_Grid
+    second: {fileID: 2800000, guid: a8b441bca9bf5c74da86a4f4bd817a44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Block_Dark
+    second: {fileID: 2800000, guid: a05cd11e670c00f4da38070d47267784, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Translucent_Glass_Block_Dark_tint0xA8AFC1CC
+    second: {fileID: 2800000, guid: 30221e8471645c1489e712e70da44b31, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Uiendakjes_tint0x6F7177FF
+    second: {fileID: 2800000, guid: 1689cea1c6ea27e45887db0aab5e07d8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Uientorenklein2
+    second: {fileID: 2800000, guid: 9920f2b4f42f6cc458c05a232e946a64, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Uienvenster
+    second: {fileID: 2800000, guid: 2578555129e95b842b7473ef027ce3aa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_Floor2
+    second: {fileID: 2800000, guid: 6fb38ba079ec9ef42a4c414584844073, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: balkon_tint0x9E9478FF
+    second: {fileID: 2800000, guid: 53133cab69e9eab4f8c2dec80415c936, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: balustradehoog_tint0x9B9178FF
+    second: {fileID: 2800000, guid: 3d515637cf8828843aab002d82c4b091, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boogdetailsepia_tint0xC7BDA4FF
+    second: {fileID: 2800000, guid: a63f6d1c4b696e64f9089ba4ea11c307, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: daktorentje
+    second: {fileID: 2800000, guid: 488d6a0b233b72a45afd19d8e20c4634, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: horloge
+    second: {fileID: 2800000, guid: cfa278bd86be0df4d8343176227d4fc4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: koorrram_tint0x837875FF
+    second: {fileID: 2800000, guid: 4ffedda500e62884f848411a840986d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: middenpoort_tint0x4A4A40FF
+    second: {fileID: 2800000, guid: fa5c6782fc95c7f4e967090223353503, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: muurspits_tint0x9C9C9CFF
+    second: {fileID: 2800000, guid: d0caebad016fba344a0a3dba51789eb6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: onderbouwsepia_tint0x828278FF
+    second: {fileID: 2800000, guid: 5a7adf49967c2c9449f66f5349056d4e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pilaarvoor_tint0x6D6E67FF
+    second: {fileID: 2800000, guid: 26e7c56c11fcfc1419dd3fcddb25d767, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: portaal_tint0x5B5B4BFF
+    second: {fileID: 2800000, guid: 7aa0d05b2a813d540bc4aa690b244ced, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spits_tint0x595240FF
+    second: {fileID: 2800000, guid: ba7a6a8fee61f9746843b885d936eb45, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spitsboven_tint0xA79D85FF
+    second: {fileID: 2800000, guid: a65535ee27ec6c94790777a299e667bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: spitsonder_tint0x9E937BFF
+    second: {fileID: 2800000, guid: 3c03bd48c723fd04a93898ff09704d88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: torenboven2_tint0x78715FFF
+    second: {fileID: 2800000, guid: 6d2a99daddb094e47b1fd94141be0c6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: torenrecht
+    second: {fileID: 2800000, guid: 81adc7493d00b5646a80f9d5e441d0a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: torenrecht1
+    second: {fileID: 2800000, guid: d142a305d5a9e9f42ba9b2be9e4f9383, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: torenrecht1_tint0x717164FF
+    second: {fileID: 2800000, guid: b971c5f94ea07cd4883395968d67fbc6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: torenrecht4
+    second: {fileID: 2800000, guid: db5e0e68fcb58fc45b50ca5627de8300, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: torenzijvolsepial_tint0x6D6D67FF
+    second: {fileID: 2800000, guid: fa170d3a6cd30ab42a1e9f5d10a0ce32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tuinraam_tint0x353535FF
+    second: {fileID: 2800000, guid: c25ec075203a7ae47ab732db0c2f6919, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: voorbeukramen_tint0x4E443CFF
+    second: {fileID: 2800000, guid: 351f3b849e40b0d4a86c87a3737a9f62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijbeukramen
+    second: {fileID: 2800000, guid: 9e803323afbc92f4f91f05d557224f50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijdak
+    second: {fileID: 2800000, guid: c71dd082afdf9ac4eb0c28d4876f9380, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijkapelkader
+    second: {fileID: 2800000, guid: de8c1554f9b45e642a5be59e18d85086, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijkapellijst_tint0x807571C7
+    second: {fileID: 2800000, guid: 181e7b72063abe448be5700c02816ab3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijkapelmuur_tint0xAFA089FF
+    second: {fileID: 2800000, guid: 7ec2c40ff212e0346a5729f841fb4167, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijkapelpilaar_tint0x968783FF
+    second: {fileID: 2800000, guid: 8624f582cb2e79840bbd4c0a3e79fe5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijkapelpilaargeel
+    second: {fileID: 2800000, guid: 3711f9ed6240b1c44b3450ab98d20c3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijkapeltorentje_tint0x4E4F49FF
+    second: {fileID: 2800000, guid: 79be7619e6900f841a86988e7f7a4127, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijkijkuit
+    second: {fileID: 2800000, guid: c9ed00018ac20b34d92040224291f2f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijkroonlijst_tint0x6A6552FF
+    second: {fileID: 2800000, guid: 5c15ce0bf08b2894a91c53c170e1df6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijportaaldeur_tint0x6B6455FF
+    second: {fileID: 2800000, guid: 1c3120af86f489b4c81207b7a14368f4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijportaalkruis_tint0xD4D4D4FF
+    second: {fileID: 2800000, guid: b200a995a4601c84dbeb80aa9ad0fcfb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijportaalmidden_tint0x6A675DFF
+    second: {fileID: 2800000, guid: 78014f4c7e92c9f4abae286d6d1ba5db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijportaalspits_tint0x7F7F6EFF
+    second: {fileID: 2800000, guid: 9834840159cb59741a7f386e5ef12183, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijraam_tint0x6B6455FF
+    second: {fileID: 2800000, guid: 6b231d68e08d6b54cb6d3bec4f7e4141, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijraammiddenbeuk_tint0x41323AFF
+    second: {fileID: 2800000, guid: b1948504cd5cf1f46a30ca052a2e9d7f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijtorenhoog_tint0x838A82FF
+    second: {fileID: 2800000, guid: 8787e9eacc12c72409201caa318e2320, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijtorenhoogste_tint0x949793FF
+    second: {fileID: 2800000, guid: 67b6b67acfdee3945abf87ee63361cf3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijtorenhoogstevoor_tint0x7C847AF7
+    second: {fileID: 2800000, guid: c02a4c449f963c947900e9308b29eaf8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijtorentje
+    second: {fileID: 2800000, guid: 0180b81dae8f881429efc1df64f70cae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: zijtorentjeomg_tint0x51514BFF
+    second: {fileID: 2800000, guid: bcea5139928ed2740a45917061dd2a7f, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: e2d53416de9160345ac8d2d32265a010
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f0000005000000051000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 56cfbb44e042589b938671d0b1c8e88a
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 18.32714, y: 6.7544947, z: -15.703528}
+      lookAt: {x: 4.964428, y: 2.072746, z: 4.338927}
+      up: {x: -0.10583448, y: 0.9816318, z: 0.15873893}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: /
+    100002: /#1
+    100004: 1 de lijn 044#1
+    100006: 44
+    100008: 44#1
+    100010: 44#2
+    100012: b
+    100014: CITARO
+    100016: CITARO#1
+    100018: Component#38
+    100020: de
+    100022: de lijn
+    100024: //RootNode
+    100026: Group 10
+    100028: Group 12
+    100030: Group 14
+    100032: Group 16
+    100034: Group 18
+    100036: Group 20
+    100038: Group 24
+    100040: Group 26
+    100042: Group 28
+    100044: Group 30
+    100046: Group 50
+    100048: Group 6
+    100050: Group 8
+    100052: Grouper#1
+    100054: Grouper#17
+    100056: Grouper#17 1
+    100058: Grouper#2
+    100060: Grouper#2 1
+    100062: Grouper#2 2
+    100064: Grouper#2 3
+    100066: lijn
+    100068: menen
+    100070: Mercedes Benz
+    100072: Mercedes Benz citaro G III nesil  (neu)
+    100074: Mercedes CITARO II
+    100076: O405#1
+    100078: stastation tuinw
+    100080: Truck Wheel#3
+    100082: Truck Wheel#3 1
+    400000: /
+    400002: /#1
+    400004: 1 de lijn 044#1
+    400006: 44
+    400008: 44#1
+    400010: 44#2
+    400012: b
+    400014: CITARO
+    400016: CITARO#1
+    400018: Component#38
+    400020: de
+    400022: de lijn
+    400024: //RootNode
+    400026: Group 10
+    400028: Group 12
+    400030: Group 14
+    400032: Group 16
+    400034: Group 18
+    400036: Group 20
+    400038: Group 24
+    400040: Group 26
+    400042: Group 28
+    400044: Group 30
+    400046: Group 50
+    400048: Group 6
+    400050: Group 8
+    400052: Grouper#1
+    400054: Grouper#17
+    400056: Grouper#17 1
+    400058: Grouper#2
+    400060: Grouper#2 1
+    400062: Grouper#2 2
+    400064: Grouper#2 3
+    400066: lijn
+    400068: menen
+    400070: Mercedes Benz
+    400072: Mercedes Benz citaro G III nesil  (neu)
+    400074: Mercedes CITARO II
+    400076: O405#1
+    400078: stastation tuinw
+    400080: Truck Wheel#3
+    400082: Truck Wheel#3 1
+    2100000: _defaultMat
+    2100002: '[0137_Black]'
+    2100004: '[0102_RoyalBlue]'
+    2100006: '[Color_008]1'
+    2100008: '[Color_C06]'
+    2100010: '[Translucent_Glass_Gray]'
+    2100012: '[Color_004]'
+    2100014: '[0133_Gray]'
+    2100016: '[0129_WhiteSmoke]'
+    2100018: '[Color_I11]'
+    2100020: '[Color_007]1'
+    2100022: '[Color_B01]'
+    2100024: '[Color_002]'
+    2100026: '[Color_A06]'
+    2100028: '[Color_001]'
+    2100030: 5ttobrec
+    2100032: '[0135_DarkGray]'
+    2100034: '[Color_A01]'
+    2100036: '[Color_005]'
+    2100038: '[0136_Charcoal]2'
+    2100040: '[Color_009]1'
+    2100042: '[Color_007]'
+    2100044: '[Color_008]2'
+    2100046: '[Metal_Aluminum_Anodized]'
+    2100048: '[Translucent_Glass_Gray]2'
+    2100050: Texture 1
+    2100052: '[Color_A05]'
+    2100054: '[Color_003]'
+    2100056: '[0041_Chocolate]'
+    2100058: '[Color_B09]'
+    2100060: '[Color_000]'
+    2100062: '[0056_Yellow]'
+    2100064: '[Color_D01]'
+    2100066: '[Color_C01]'
+    2100068: _Charcoal_
+    2100070: '[Color_H15]'
+    2100072: '[Color_006]'
+    2100074: '[Translucent_Glass_Gold]'
+    2100076: '[0024_OrangeRed]'
+    2300000: /
+    2300002: /#1
+    2300004: 1 de lijn 044#1
+    2300006: 44
+    2300008: 44#1
+    2300010: 44#2
+    2300012: b
+    2300014: CITARO
+    2300016: CITARO#1
+    2300018: Component#38
+    2300020: de
+    2300022: de lijn
+    2300024: Group 10
+    2300026: Group 12
+    2300028: Group 14
+    2300030: Group 16
+    2300032: Group 18
+    2300034: Group 20
+    2300036: Group 24
+    2300038: Group 26
+    2300040: Group 28
+    2300042: Group 30
+    2300044: Group 50
+    2300046: Group 6
+    2300048: Group 8
+    2300050: Grouper#1
+    2300052: Grouper#17
+    2300054: Grouper#17 1
+    2300056: Grouper#2
+    2300058: Grouper#2 1
+    2300060: Grouper#2 2
+    2300062: Grouper#2 3
+    2300064: lijn
+    2300066: menen
+    2300068: Mercedes Benz
+    2300070: Mercedes CITARO II
+    2300072: O405#1
+    2300074: stastation tuinw
+    2300076: Truck Wheel#3
+    2300078: Truck Wheel#3 1
+    3300000: /
+    3300002: /#1
+    3300004: 1 de lijn 044#1
+    3300006: 44
+    3300008: 44#1
+    3300010: 44#2
+    3300012: b
+    3300014: CITARO
+    3300016: CITARO#1
+    3300018: Component#38
+    3300020: de
+    3300022: de lijn
+    3300024: Group 10
+    3300026: Group 12
+    3300028: Group 14
+    3300030: Group 16
+    3300032: Group 18
+    3300034: Group 20
+    3300036: Group 24
+    3300038: Group 26
+    3300040: Group 28
+    3300042: Group 30
+    3300044: Group 50
+    3300046: Group 6
+    3300048: Group 8
+    3300050: Grouper#1
+    3300052: Grouper#17
+    3300054: Grouper#17 1
+    3300056: Grouper#2
+    3300058: Grouper#2 1
+    3300060: Grouper#2 2
+    3300062: Grouper#2 3
+    3300064: lijn
+    3300066: menen
+    3300068: Mercedes Benz
+    3300070: Mercedes CITARO II
+    3300072: O405#1
+    3300074: stastation tuinw
+    3300076: Truck Wheel#3
+    3300078: Truck Wheel#3 1
+    4300000: Mesh Component#38
+    4300002: Mesh Mercedes CITARO II
+    4300004: Mesh Group 6
+    4300006: Mesh Group 8
+    4300008: Mesh Group 10
+    4300010: Mesh Group 12
+    4300012: Mesh Group 14
+    4300014: Mesh Group 16
+    4300016: Mesh Group 20
+    4300018: Mesh Grouper#1
+    4300020: Mesh Group 24
+    4300022: Mesh Group 26
+    4300024: Mesh Group 28
+    4300026: Mesh Group 30
+    4300028: Mesh Grouper#17
+    4300030: Mesh Grouper#17
+    4300032: Mesh CITARO#1
+    4300034: Mesh CITARO
+    4300036: Mesh Mercedes Benz
+    4300038: Mesh Grouper#2
+    4300040: Mesh Group 50
+    4300042: Mesh O405#1
+    4300044: Mesh Truck Wheel#3
+    4300046: Mesh lijn
+    4300048: Mesh /
+    4300050: Mesh stastation tuinw
+    4300052: Mesh 44
+    4300054: Mesh 44#1
+    4300056: Mesh menen
+    4300058: Mesh de lijn
+    4300060: Mesh /#1
+    4300062: Mesh de
+    4300064: Mesh 1 de lijn 044#1
+    4300066: Mesh b
+    4300068: Mesh 44#2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
