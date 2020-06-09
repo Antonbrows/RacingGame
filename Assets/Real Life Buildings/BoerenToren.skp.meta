@@ -38,7 +38,37 @@ SketchUpImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: Mesh BoerenToren
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Terrazzo
+    second: {fileID: 2800000, guid: 64481d0a29c4c6246825bd00066848e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boerentore_front_mid
+    second: {fileID: 2800000, guid: fa6cb8e6eb00a5e4b9c22f499bacb8b6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boerentore_front_top
+    second: {fileID: 2800000, guid: d635e7882c2023b46bf3a683e63c9a5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boerentore_side_mid
+    second: {fileID: 2800000, guid: 4106d846224235045a200679eb0abe39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boerentore_side_top
+    second: {fileID: 2800000, guid: be8dff063917e504d842aa608fd56a03, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: boerentoren_frontsokkel
+    second: {fileID: 2800000, guid: 7c5ce551a73017443a5ec28273473802, type: 3}
   materials:
     importMaterials: 1
     materialName: 2

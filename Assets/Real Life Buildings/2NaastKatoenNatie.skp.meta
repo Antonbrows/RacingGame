@@ -74,7 +74,117 @@ SketchUpImporter:
     4300000: Mesh Group 1
     4300002: Mesh Sang
     4300004: Mesh Group 5
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 12
+    second: {fileID: 2800000, guid: e37514856c7aaae47a1207e846f43df7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 13
+    second: {fileID: 2800000, guid: 1fbae3e4bccb69c4ab8bfd7a5d469993, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 14
+    second: {fileID: 2800000, guid: 7aeb8c377f68d5347957a42e92f2ae46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 15
+    second: {fileID: 2800000, guid: dde00e05f8818c54fbd70c29470e790b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 16
+    second: {fileID: 2800000, guid: d7547e44c9369d94a905611a110ddca5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 17
+    second: {fileID: 2800000, guid: 6a44081182b221949ae373e1bd4a9002, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 18
+    second: {fileID: 2800000, guid: 428c24da0b7b7b844989af29c4c55904, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 19
+    second: {fileID: 2800000, guid: 538894c68da6103449c4b3378c99c8b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1_b
+    second: {fileID: 2800000, guid: 9a0b0639ddd8dc243817fa8ac13dfa5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2
+    second: {fileID: 2800000, guid: 7fe69f947fc199a47a5fce2c0e9f49a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2800000, guid: 2481da1d7f9bddb43a0aaa8f6bb39a7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 4
+    second: {fileID: 2800000, guid: 19aab9f23c74b114aad18a02ea76906b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5
+    second: {fileID: 2800000, guid: d6ffdaf9a5599fb4c96d47755d063240, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9
+    second: {fileID: 2800000, guid: 6822ccfeb7f759244bf121032f20b0ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fencing_Metal_Straight
+    second: {fileID: 2800000, guid: 242f8bd8e6d35e44e841e9e5f250b514, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2800000, guid: b9bf81429dcc46f4baac9e0379c85ea3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2800000, guid: 01bd10b713a04d64f92c85024857ad3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: east side green
+    second: {fileID: 2800000, guid: 97daf71edc550fd41a4d206e32ca8cf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: north side green
+    second: {fileID: 2800000, guid: 09ff0b97d4428584c8ebff8e644d75ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: south side green
+    second: {fileID: 2800000, guid: 549a2cfa7d3bf63448c88bf4fe8c8045, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: stella
+    second: {fileID: 2800000, guid: d261f7094acab9c49a5e441cf16b7040, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: west side green
+    second: {fileID: 2800000, guid: 04438933a1d18d2429159b02b495a7be, type: 3}
   materials:
     importMaterials: 1
     materialName: 2

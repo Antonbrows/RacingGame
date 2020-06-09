@@ -212,7 +212,127 @@ SketchUpImporter:
     4300038: Mesh Group 51
     4300040: Mesh Group 53
     4300042: Mesh Toren
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: db539a3e53a6eb34ea8e48f8625ab53a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 10
+    second: {fileID: 2800000, guid: fce9c05bf13847543a1579ef02ec6a0f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 11
+    second: {fileID: 2800000, guid: c82b7589956822b4b9f4dfeda734d82e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 12
+    second: {fileID: 2800000, guid: 44fb5d1d6dc62cc499b8ab2280b84ee0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 16
+    second: {fileID: 2800000, guid: 9591664214ad15b4298272782d75aff3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2
+    second: {fileID: 2800000, guid: 9ee43ccc8f5db0a45bc5a378959d928e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 23
+    second: {fileID: 2800000, guid: cb0d24277e5f23845877187548783f9e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 24
+    second: {fileID: 2800000, guid: d2778e0237e7e124987df76153560503, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 25
+    second: {fileID: 2800000, guid: 10fff65216de11640b4a7914852946ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 26
+    second: {fileID: 2800000, guid: 5de8d4a9344cfca4e90c1cfbd2a9f83f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 27
+    second: {fileID: 2800000, guid: f4e9ba1924a5cc84289834b9f15a8450, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 28
+    second: {fileID: 2800000, guid: 66357235a8bec9347a44385e86d59694, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 29
+    second: {fileID: 2800000, guid: 86d7def4bc5ac2b4a9d2aee17eda6615, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2800000, guid: 9d1c9c479cd472c4480b21d305c4fa6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 30
+    second: {fileID: 2800000, guid: e278b93848ff33e4ab8adab08085dd62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 31
+    second: {fileID: 2800000, guid: f4186450622a51944936dfb1d61e70a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 32
+    second: {fileID: 2800000, guid: 2cc024ba57ff54b4283a303e95e39904, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 4
+    second: {fileID: 2800000, guid: d3aba52f822c3b24ab08ef9047aa75e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5
+    second: {fileID: 2800000, guid: c0295bc1132225a4ebe7772abe3d1d18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6
+    second: {fileID: 2800000, guid: 77bda55354e7fb345bd0466fdabef8dc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7
+    second: {fileID: 2800000, guid: 8f8e9e2d453a990408ddf77136d5a14d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9
+    second: {fileID: 2800000, guid: de4a067f27e8d174eb50f09951db4563, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: HPIM2217
+    second: {fileID: 2800000, guid: aa368e9d71855b64db960cf85d0989cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Untitled-2
+    second: {fileID: 2800000, guid: 660b0c11a4dbf564b93a82ede44aff75, type: 3}
   materials:
     importMaterials: 1
     materialName: 2

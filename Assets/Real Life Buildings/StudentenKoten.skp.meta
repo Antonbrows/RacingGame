@@ -42,7 +42,57 @@ SketchUpImporter:
     2300000: //RootNode
     3300000: //RootNode
     4300000: Mesh StudentenKoten
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: c1dd090feee8b934ea9cb2bc5fa8852a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2
+    second: {fileID: 2800000, guid: 4ab8aeaa7d43f3b40a350f280f52bc42, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2800000, guid: b230b66976ad19b4184ff10266dcc3e4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: IMG_4557
+    second: {fileID: 2800000, guid: 8df9ad7e169aceb4cb8f90a8222e9124, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material(6)
+    second: {fileID: 2800000, guid: 0785aa5a89da9e2449d2d76f0704645f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Material2
+    second: {fileID: 2800000, guid: 10b81d2956d68644ebb6fd88ad7b4184, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: b
+    second: {fileID: 2800000, guid: 40b72abb1ae7fc14ab2cdbad2fedcf3e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: back2
+    second: {fileID: 2800000, guid: 6f9ec2f5c2131db47a6ad78d692a6576, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: back_tint0x3D4039FF
+    second: {fileID: 2800000, guid: 59d10d22a0716bc43b227a0871ce7ff9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof
+    second: {fileID: 2800000, guid: db043647625cce84fa5ad7a446ac44a5, type: 3}
   materials:
     importMaterials: 1
     materialName: 2

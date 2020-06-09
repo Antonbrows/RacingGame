@@ -47,7 +47,47 @@ SketchUpImporter:
     4300000: Mesh HavenHuis
     4300002: Mesh Group 2
     4300004: Mesh Group 4
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: 6e8b6f90c8f0ae44882afcd5cd1e36c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: havenhuis_hadid_4
+    second: {fileID: 2800000, guid: d3265bd3ca9d42c42b42b90b20420e92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: havenhuis_hadid_4_tint0x8E99AAFF
+    second: {fileID: 2800000, guid: a0833b24aeb3df34884845f1107be94a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: havenhuis_hadid_4_tint0xE1E4EAFF
+    second: {fileID: 2800000, guid: b2882e66f2825814c8019e55dc993e92, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: last
+    second: {fileID: 2800000, guid: f56a57b5e81f6d14f83d083ca3f67ce4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof
+    second: {fileID: 2800000, guid: 8be057080a338e643be2eff6dd5a9839, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: side dark
+    second: {fileID: 2800000, guid: 21d3efccd24b20042850515900e9cb0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: side light
+    second: {fileID: 2800000, guid: f34e3fd389d5a23428447a68098f7a6d, type: 3}
   materials:
     importMaterials: 1
     materialName: 2
